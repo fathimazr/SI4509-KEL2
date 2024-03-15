@@ -7,13 +7,4 @@ Al Ferdaus Leon
 my love was as cruel as the cities i lived in
 everyone looked worse in the light
 There are so many lines that I've crossed unforgiven
-<<<<<<< HEAD
-I'll tell you the truth, but never goodbye
-I don't want to look at anything else now that I saw you
-=======
-<<<<<<< HEAD
-I'll tell you the truth, but never goodbye
-=======
-I'll tell you the truth, but never goodbye
->>>>>>> cd1eed73c5ce1e46da9e6e64d7f288daf5aaffcc
->>>>>>> 829a39cf156b5dad4f3ab214acb4bc90135937c0
+
